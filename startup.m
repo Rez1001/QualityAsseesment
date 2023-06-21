@@ -5,8 +5,8 @@ close all
 % ---------------------- Read Files -------------------------
 
 % PATH OF FOLDER
-folder_orginal = 'D:\Retinal DataSets\final image my thesis\selected for image visualization\evaluation\Make random';
-folder_enhance = 'D:\Retinal DataSets\final image my thesis\selected for image visualization\evaluation\CLAHE'; 
+folder_orginal = 'your path';
+folder_enhance = 'your path'; 
 
 % YOU SHOULD CHOOSE TYPE OF YOUR ORGINAL AND ENHANCE  IMAGE
 % BE CERFUL BOTH IMAGE SHOULD HAVE SAME SIZE ;)
