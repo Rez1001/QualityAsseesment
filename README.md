@@ -10,5 +10,5 @@ My code reads in pairs of images from two different folders, where each pair con
 •	peak signal-to-noise ratio (PSNR)
 •	structural similarity index (SSIM)
 
-These metrics are calculated for each pair of images and stored in a matrix called 'results_cell'. The code also defines three helper functions: Calculate_CII, getMSSIM, and getPSNR.
+These metrics are calculated for each pair of images and stored in a matrix called 'results_cell'. 
 
