@@ -8,8 +8,8 @@ close all
 folder_orginal = 'your path';
 folder_enhance = 'your path'; 
 
-% YOU SHOULD CHOOSE TYPE OF YOUR ORGINAL AND ENHANCE  IMAGE
-% BE CERFUL BOTH IMAGE SHOULD HAVE SAME SIZE ;)
+% YOU SHOULD CHOOSE THE TYPE OF YOUR ORIGINAL AND ENHANCE  THE IMAGE
+% BE CAREFUL THAT BOTH IMAGE HAVE SAME SIZE ;)
 
 filetype_orginal = '.jpg'; 
 filetype_enhance = '.jpg'; 
